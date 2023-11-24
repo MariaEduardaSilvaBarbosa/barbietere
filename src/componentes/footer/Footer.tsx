@@ -3,8 +3,7 @@ import Logo from '../../assets/Logo_barbie.png.webp'
 function Footer(){
     return(
         <footer>
-            <img src={Logo} alt=""/>
-
+            <img src={Logo} alt="" />
         </footer>
     )
 }
